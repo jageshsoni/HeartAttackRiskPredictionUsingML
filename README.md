@@ -17,42 +17,41 @@ associated with having a heart attack in a patient in 10 years time.
 
 ## Installation
 
-Check is python is installed in your system by typing python --version
-in your command prompt.
+- Check is python is installed in your system by typing python --version in your command prompt. If not then install python on your system by downloading the setup from the python website [here](https://www.python.org/downloads/).
 
-If not then install python on your system
-### `py`
+- Clone the project (or download the folder to your local)
+    ```
+      git clone https://github.com/jageshsoni/HeartAttackRiskPredictionUsingML.git
+    ```
 
-Clone the project (or download the folder to your local)
-### `git clone https://www.github.com/link-to-project.git`
+- Go to project directory
+    ```
+      cd project
+    ```
 
-Go to project directory
-### `cd project`
+- Install Dependencies
+    ```
+      pip install numpy pandas matplotlib seaborn scikit-learn boruta statsmodels imbalanced-learn
+    ```
 
-Install Dependencies
-### `pip install numpy pandas matplotlib seaborn scikit-learn boruta statsmodels imbalanced-learn`
+## Run Locally
 
-## Deployment
+To run this project, open the code file in vs code studio and then tap on the run all option.
 
-To run this project, open the code file in vs code studio, 
-jypyter notebook or google collab and then tap on the run 
-all option.
+To get the risk associated with heart attack, input the values of  age, BMI, Systolic BP, Diastolic BP, heart rate and blood glucose levels and then run the corresponding cell.
 
-To get the risk associated with heart attack, input the values
-of  age, BMI, Systolic BP, Diastolic BP, heart rate and blood 
-glucose levels and then run the corresponding cell.
-
-#### Tech Stack
+## Tech Stack
 
 **Language:** Python
 
-**Libraries:** numpy, pandas, matplotlib, scikit-learn,
- boruta, imbalanced-learn
+**Libraries:** numpy, pandas, matplotlib, scikit-learn, boruta, imbalanced-learn
+
 ## Machine Learning Model Used
 
 K Nearest Neighbor Algorithm
+
 ## Authors
 
-Ayush Avasthi (https://www.github.com/avasthiayush)
-Jagesh Soni (https://www.github.com/jageshsoni)
-Prateek Pandey (https://www.github.com/pprockys)
+- Ayush Avasthi (B.Tech CSE - 1805210016) [[Github](https://github.com/avasthiayush), [LinkedIn](https://www.linkedin.com/in/ayush-avasthi/)]
+- Jagesh Soni (B.Tech CSE - 1805210023) [[Github](https://github.com/jageshsoni), [LinkedIn](https://www.linkedin.com/in/jagesh-soni-1b3239176/)]
+- Prateek Pandey (B.Tech CSE - 1805210036) [[Github](https://github.com/pprockys), [LinkedIn](https://www.linkedin.com/in/pprockys/)]
