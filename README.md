@@ -52,6 +52,6 @@ K Nearest Neighbor Algorithm
 
 ## Authors
 
-- Ayush Avasthi (B.Tech CSE - 1805210016) [[Github](https://github.com/avasthiayush), [LinkedIn](https://www.linkedin.com/in/ayush-avasthi/)]
-- Jagesh Soni (B.Tech CSE - 1805210023) [[Github](https://github.com/jageshsoni), [LinkedIn](https://www.linkedin.com/in/jagesh-soni-1b3239176/)]
-- Prateek Pandey (B.Tech CSE - 1805210036) [[Github](https://github.com/pprockys), [LinkedIn](https://www.linkedin.com/in/pprockys/)]
+- Ayush Avasthi (B.Tech CSE - 1805210016) (6398173825) [[Github](https://github.com/avasthiayush), [LinkedIn](https://www.linkedin.com/in/ayush-avasthi/)]
+- Jagesh Soni (B.Tech CSE - 1805210023) (6388831781) [[Github](https://github.com/jageshsoni), [LinkedIn](https://www.linkedin.com/in/jagesh-soni-1b3239176/)]
+- Prateek Pandey (B.Tech CSE - 1805210036) (6398173825) [[Github](https://github.com/pprockys), [LinkedIn](https://www.linkedin.com/in/pprockys/)]
